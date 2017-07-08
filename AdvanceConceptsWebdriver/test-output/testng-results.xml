@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="94068" started-at="2017-06-22T04:56:22Z" finished-at="2017-06-22T04:57:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="94068" started-at="2017-06-22T04:56:22Z" finished-at="2017-06-22T04:57:56Z">
+      <class name="demo.Multiplewindowhandle">
+        <test-method status="PASS" signature="setup()[pri:1, instance:demo.Multiplewindowhandle@2c767a52]" name="setup" duration-ms="58718" started-at="2017-06-22T10:26:22Z" finished-at="2017-06-22T10:27:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="width()[pri:2, instance:demo.Multiplewindowhandle@2c767a52]" name="width" duration-ms="17957" started-at="2017-06-22T10:27:21Z" finished-at="2017-06-22T10:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- width -->
+        <test-method status="PASS" signature="viewdropdownlist()[pri:3, instance:demo.Multiplewindowhandle@2c767a52]" name="viewdropdownlist" duration-ms="17372" started-at="2017-06-22T10:27:39Z" finished-at="2017-06-22T10:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewdropdownlist -->
+      </class> <!-- demo.Multiplewindowhandle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
